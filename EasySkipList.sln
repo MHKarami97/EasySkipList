@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySkipList", "EasySkipList\EasySkipList.csproj", "{907F4054-395B-4742-AC71-68B39C4C7BAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{4FA561CB-9410-4014-BBC2-50B2277E30E9}"
+	ProjectSection(SolutionItems) = preProject
+		.github\ISSUE_TEMPLATE\10_bug_report.yml = .github\ISSUE_TEMPLATE\10_bug_report.yml
+		.github\ISSUE_TEMPLATE\20_feature-request.yml = .github\ISSUE_TEMPLATE\20_feature-request.yml
+		.github\ISSUE_TEMPLATE\30_api-proposal.md = .github\ISSUE_TEMPLATE\30_api-proposal.md
+		.github\ISSUE_TEMPLATE\config.yml = .github\ISSUE_TEMPLATE\config.yml
+		.github\labeler.yml = .github\labeler.yml
+		.github\policies\labelManagement.issueOpened.yml = .github\policies\labelManagement.issueOpened.yml
+		.github\policies\labelManagement.issueUpdated.yml = .github\policies\labelManagement.issueUpdated.yml
+		.github\policies\labelManagement.prOpened.yml = .github\policies\labelManagement.prOpened.yml
+		.github\policies\labelManagement.prUpdated.yml = .github\policies\labelManagement.prUpdated.yml
+		.github\policies\scheduledSearch.closeStaleIssuesAndPrs.yml = .github\policies\scheduledSearch.closeStaleIssuesAndPrs.yml
+		.github\policies\scheduledSearch.markNoRecentActivity.yml = .github\policies\scheduledSearch.markNoRecentActivity.yml
+		.github\workflows\dotnet.yml = .github\workflows\dotnet.yml
+		.github\workflows\greetings.yml = .github\workflows\greetings.yml
+		.github\workflows\label.yml = .github\workflows\label.yml
+		.github\workflows\stale.yml = .github\workflows\stale.yml
+		.editorConfig = .editorConfig
+		.gitignore = .gitignore
+		CODE_OF_CONDUCT.md = CODE_OF_CONDUCT.md
+		CONTRIBUTORS.md = CONTRIBUTORS.md
+		icon.jpg = icon.jpg
+		IssueManagementPolicies.md = IssueManagementPolicies.md
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
+		SECURITY.md = SECURITY.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{907F4054-395B-4742-AC71-68B39C4C7BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907F4054-395B-4742-AC71-68B39C4C7BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907F4054-395B-4742-AC71-68B39C4C7BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907F4054-395B-4742-AC71-68B39C4C7BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

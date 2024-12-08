@@ -1,0 +1,8 @@
+"load-test":
+  - "EasySkipListLoadTest/**"
+"unit-test":
+  - "EasySkipListUnitTest/**"
+"integration-test":
+  - "EasySkipListIntegrationTest/**"
+"cache-source":
+  - "EasySkipList/**"
