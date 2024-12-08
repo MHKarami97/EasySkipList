@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=199f58da_002D3a49_002D4681_002D8096_002D93ac77e51fc4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SkipListTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0B359D54-8E6E-4A27-BB0B-5B17AA9CA628::net8.0::EasySkipListUnitTest.SkipListTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4af1ef41_002D94c7_002D4bec_002Dac1e_002Df51327902b7c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SkipListTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0B359D54-8E6E-4A27-BB0B-5B17AA9CA628::net8.0::EasySkipListUnitTest.SkipListTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0B359D54-8E6E-4A27-BB0B-5B17AA9CA628::net8.0::EasySkipListUnitTest.ConcurrentSkipListTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
